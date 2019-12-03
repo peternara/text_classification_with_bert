@@ -6,6 +6,7 @@ run_classifier.py  --task_name=my_processor  --do_train=true   --do_eval=true   
 The result is 
 
    *** Eval Results ***
+   
    eval_accuracy = 0.9985759
    
    eval_loss = 0.008041907
@@ -13,4 +14,3 @@ The result is
    global_step = 5957
    
    loss = 0.008039623
-   
